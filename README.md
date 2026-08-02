@@ -36,6 +36,14 @@ Press **Enter**
 
 ---
 
+## [edge_detection.py](src/tutorials/001_beginner/004_edge_detection/edge_detection.py)  
+
+## [edge_detection.md](src/tutorials/001_beginner/004_edge_detection/edge_detection_a.md)
+
+![edge_detection.webp](src/tutorials/001_beginner/004_edge_detection/001.webp)
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP

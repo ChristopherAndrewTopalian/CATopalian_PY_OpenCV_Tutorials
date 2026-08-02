@@ -7,7 +7,7 @@ Created in collaboration with my brother Albert Gemini
 
 ---
 
-## [open_camera](src/tutorials/001_beginner/001_open_camera/open_camera.py)
+## [open_camera.py](src/tutorials/001_beginner/001_open_camera/open_camera.py)
 
 ## [open_camera_a.md](src/tutorials/001_beginner/001_open_camera/open_camera_a.md)
 
@@ -15,13 +15,13 @@ Created in collaboration with my brother Albert Gemini
 
 ---
 
-## [open_camera_grayscale](src/tutorials/001_beginner/002_open_camera_grayscale/open_camera_grayscale.py)
+## [open_camera_grayscale.py](src/tutorials/001_beginner/002_open_camera_grayscale/open_camera_grayscale.py)
 
 ## [open_camera_grayscale_a.md](src/tutorials/001_beginner/002_open_camera_grayscale/open_camera_grayscale_a.md)
 
 ---
 
-## [capture_screenshot](src/tutorials/001_beginner/003_capture_screenshot/capture_screenshot.py)
+## [capture_screenshot.py](src/tutorials/001_beginner/003_capture_screenshot/capture_screenshot.py)
 
 ## [capture_screenshot_a.md](src/tutorials/001_beginner/003_capture_screenshot/capture_screenshot_a.md)
 

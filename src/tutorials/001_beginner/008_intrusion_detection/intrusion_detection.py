@@ -25,7 +25,7 @@ for i in range(30):
     ret, frame = cap.read()
     time.sleep(0.05)
 
-# 1. Capture the BASELINE frame (The memory of the empty room)
+# Capture the BASELINE frame (The memory of the empty room)
 ret, frame = cap.read()
 baseline_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
@@ -41,16 +41,16 @@ while True:
 
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
 
-    # 2. Compare the current frame to the memory of the baseline frame
+    # Compare the current frame to the memory of the baseline frame
     # This subtracts the two images. Only pixels that have CHANGED will remain.
     delta = cv2.absdiff(baseline_frame, gray)
 
-    # 3. Binarize the difference
+    # Binarize the difference
     # If a pixel changed by a value of 30 or more, turn it pure white (255). 
     # Otherwise, ignore it and turn it black (0).
     _, thresh = cv2.threshold(delta, 30, 255, cv2.THRESH_BINARY)
 
-    # 4. Find the edges of the changed pixels
+    # Find the edges of the changed pixels
     contours, _ = cv2.findContours(thresh, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
 
     # Default State

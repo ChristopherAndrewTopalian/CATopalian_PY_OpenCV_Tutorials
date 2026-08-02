@@ -9,11 +9,15 @@ Created in collaboration with my brother Albert Gemini
 
 ## [open_camera](src/tutorials/001_beginner/001_open_camera/open_camera.py)
 
+## [open_camera_a.md](src/tutorials/001_beginner/001_open_camera/open_camera_a.md)
+
 ![open_camera](src/tutorials/001_beginner/001_open_camera/001.webp)
 
 ---
 
 ## [open_camera_grayscale](src/tutorials/001_beginner/002_open_camera_grayscale/open_camera_grayscale.py)
+
+## [open_camera_grayscale_a.md](src/tutorials/001_beginner/002_open_camera_grayscale/open_camera_grayscale_a.md)
 
 ![open_camera_grayscale](src/tutorials/001_beginner/002_open_camera_grayscale/001.webp)
 

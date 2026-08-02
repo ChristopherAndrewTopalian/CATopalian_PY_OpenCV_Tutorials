@@ -19,7 +19,11 @@ Created in collaboration with my brother Albert Gemini
 
 ## [open_camera_grayscale_a.md](src/tutorials/001_beginner/002_open_camera_grayscale/open_camera_grayscale_a.md)
 
-![open_camera_grayscale](src/tutorials/001_beginner/002_open_camera_grayscale/001.webp)
+---
+
+## [capture_screenshot](src/tutorials/001_beginner/003_capture_screenshot/capture_screenshot.py)
+
+## [capture_screenshot_a.md](src/tutorials/001_beginner/003_capture_screenshot/capture_screenshot_a.md)
 
 ---
 

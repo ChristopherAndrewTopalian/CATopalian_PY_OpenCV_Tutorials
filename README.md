@@ -62,6 +62,14 @@ Press **Enter**
 
 ---
 
+## [spatial_zoning.py](src/tutorials/001_beginner/007_spatial_zoning/spatial_zoning.py)  
+
+## [spatial_zoning.md](src/tutorials/001_beginner/007_spatial_zoning/spatial_zoning_a.md)  
+
+![spatial_zoning.md](src/tutorials/001_beginner/007_spatial_zoning/001.webp)  
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP

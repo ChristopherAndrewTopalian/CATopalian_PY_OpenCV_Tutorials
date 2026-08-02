@@ -60,8 +60,6 @@ Press **Enter**
 
 ![target_telemetry.webp](src/tutorials/001_beginner/006_target_telemetry/002.webp)  
 
-![target_telemetry.webp](src/tutorials/001_beginner/006_target_telemetry/003.webp)  
-
 ---
 
 ### How to Download this App

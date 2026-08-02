@@ -3,6 +3,13 @@ The implementation of OpenCV on Python is excellent. Computer vision using Pytho
 
 ---
 
+### Install OpenCV on for Python
+Open **Command Prompt** and type  
+### **pip install opencv-python**  
+Press **Enter**
+
+---
+
 Created in collaboration with my brother Albert Gemini
 
 ---

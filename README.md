@@ -70,6 +70,12 @@ Press **Enter**
 
 ---
 
+## [intrusion_detection.py](src/tutorials/001_beginner/008_intrusion_detection/intrusion_detection.py)  
+
+## [intrusion_detection.md](src/tutorials/001_beginner/008_intrusion_detection/intrusion_detection_a.md)  
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP

@@ -52,6 +52,18 @@ Press **Enter**
 
 ---
 
+## [target_telemetry.py](src/tutorials/001_beginner/006_target_telemetry/target_telemetry.py)  
+
+## [target_telemetry_a.md](src/tutorials/001_beginner/006_target_telemetry/target_telemetry_a.md)  
+
+![target_telemetry.webp](src/tutorials/001_beginner/006_target_telemetry/001.webp)  
+
+![target_telemetry.webp](src/tutorials/001_beginner/006_target_telemetry/002.webp)  
+
+![target_telemetry.webp](src/tutorials/001_beginner/006_target_telemetry/003.webp)  
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP

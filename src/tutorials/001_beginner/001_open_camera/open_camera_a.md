@@ -20,7 +20,7 @@ This script demonstrates how to bypass the standard operating system delays and 
 
 ## Execution
 
-Run `open_camera.py`. 
+Run `python open_camera.py`. 
 
 Look at your terminal console. The script is designed to report its status to you. If the feed fails to open, the console will give you exact troubleshooting steps (such as checking your Windows Privacy settings or closing other software like Zoom).
 
